@@ -1,12 +1,4 @@
-# algo-exercise-wcf
-
-算法练习项目
-
-# algo-exercise-java
-
-java 实现
-
-## 项目介绍
+# 项目介绍
 
 leetcode 刷题记录; 典型算法实现记录
 
@@ -14,7 +6,7 @@ leetcode 刷题记录; 典型算法实现记录
 
 提供一批工具函数,方便本地调试时构造输入
 
-## 包含工具函数
+# 包含工具函数
 
 leetcode 相关的几个工具介绍:
 
@@ -42,8 +34,9 @@ LtcUtil: 一些工具函数
 
 - int[][] LtcUtil.buildIntMatrix(String json) : 把 json 字符串表示的二维数组转变为二维数组
 
-## 包
+# 包
 
 - com.helipy.common: 一些常用算法
 - com.helipy.leetcodecn.jzof2: 剑指offer(第二版)对应的题目
 - com.helipy.leetcodecn.main: leetcodecn主站对应的题目
+
